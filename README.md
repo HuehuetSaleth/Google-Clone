@@ -29,7 +29,7 @@ El proyecto está enfocado en la construcción de la interfaz de Google, tomando
 ***
 #### OBJETIVOS DEL PROYECTO
 
-Aprender a utilizar las etiquetas de HTML5 y las propiedades de CSS3; así como identificar componentes base de un sitio web, para analizarlas y replicarlas.
+Aprender a utilizar etiquetas de HTML5, las propiedades de CSS3, así como identificar los componentes base de un sitio web, con el propósito de analizarlos y replicarlos.
 
 ***
 #### LINK AL DEMO! 
